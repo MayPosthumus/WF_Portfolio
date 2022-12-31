@@ -1,0 +1,10 @@
+.laboContainer {
+    height: 80vh;
+    width: 80vw;
+    position: absolute;
+    left:10vw;
+    top: 10vh;
+}
+a {
+    all: unset;
+}
